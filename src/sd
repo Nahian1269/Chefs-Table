@@ -1,0 +1,2 @@
+    const allset = [...prep, mark];
+    setprep(allset);

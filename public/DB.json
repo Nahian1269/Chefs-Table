@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spicy Basil Chicken Stir-Curry",
+      "short_description": "A fiery and flavorful stir-fry that will tantalize your taste buds!",
+      "ingredients": ["550 g chicken, 120 ml soy sauce", "200 g basil leaves, 400 g mushrooms", "2 cloves garlic, minced,2 red chilies, sliced"],
+      "preparing_time": 30,
+      "calories": 320,
+      "recipe_image": "https://www.twincities.com/wp-content/uploads/2023/01/STP-Z-WEEKNIGHT-01.jpg?w=1024"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Creamy Mushroom Chicken Stake",
+      "short_description": "Indulge in the rich creaminess of this classic Italian dish!",
+      "ingredients": ["300 g Arborio rice, 1 L vegetable broth", "200 g mushrooms, 100 g Parmesan cheese", "1 onion, finely chopped, 2 cloves garlic, minced"],
+      "preparing_time": 45,
+      "calories": 420,
+      "recipe_image": "https://img.freepik.com/free-photo/mixed-fried-meat-with-pomegranate-sauce_140725-3461.jpg?w=1060&t=st=1711967295~exp=1711967895~hmac=8ac2f86166c3a8d8b2d03fdb0d08dc40ea24b6033908b923a499db24a58d9693"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Caprese chicken Salad",
+      "short_description": "A refreshing and vibrant salad bursting with the flavors of summer!",
+      "ingredients": ["3 large tomatoes, 200 g fresh mozzarella cheese", "1 bunch fresh basil, 2 tbsp balsamic vinegar", "2 tbsp extra virgin olive oil, Salt and pepper to taste"],
+      "preparing_time": 15,
+      "calories": 180,
+      "recipe_image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=1380&t=st=1711967443~exp=1711968043~hmac=f1b86c9b736d80dd5570f14355d024f729e1faafde134cb52a8fb2ea06f3893c"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Teriyaki Pasta",
+      "short_description": "Enjoy the perfect balance of sweet and savory with this Japanese-inspired dish!",
+      "ingredients": ["3 large tomatoes, 200 g fresh mozzarella cheese", "1 bunch fresh basil, 2 tbsp balsamic vinegar", "2 tbsp extra virgin olive oil, Salt and pepper to taste"],
+      "preparing_time": 25,
+      "calories": 280,
+      "recipe_image": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=1380&t=st=1711967466~exp=1711968066~hmac=944179c5afcc2eaaca33abb2484ca2d929c8cc5b7dd5d7d70b7718ffb5dafd65"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Mediterranean Chicken Fry",
+      "short_description": "A nutritious and flavorful salad packed with the goodness of quinoa and Mediterranean flavors!",
+      "ingredients": ["3 large tomatoes, 200 g fresh mozzarella cheese", "1 bunch fresh basil, 2 tbsp balsamic vinegar", "2 tbsp extra virgin olive oil, Salt and pepper to taste"],
+      "preparing_time": 20,
+      "calories": 320,
+      "recipe_image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?w=1380&t=st=1711967513~exp=1711968113~hmac=b098f52e8124ecd7bb1fe66b6d91bb8376fd9c0430b68a04af0be797be835d28"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Classic Margherita  Shawrma",
+      "short_description": "Experience the simplicity and authenticity of Italy with every bite of this timeless pizza!",
+      "ingredients": ["3 large tomatoes, 200 g fresh mozzarella cheese", "1 bunch fresh basil, 2 tbsp balsamic vinegar", "2 tbsp extra virgin olive oil, Salt and pepper to taste"],
+      "preparing_time": 35,
+      "calories": 380,
+      "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14218.jpg?w=1380&t=st=1711967533~exp=1711968133~hmac=5ebf32d39d6e37e07ed5d01250c9b17d1175afc26f5d5ca5afb76ed1aa9dd7e0"
+    }
+  ]
+  
